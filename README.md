@@ -9,6 +9,6 @@ This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextra
   
 ## Corpus Information
 
-| |d| | 459,208 documents |
-| |w| | 83.5M words       |
-| |v| | 4.7M unique words |
+| documents | words | vocabulary |
+| --- | --- | --- |
+|459,208 | 83.5M | 4.7M |
