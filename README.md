@@ -7,4 +7,4 @@ corpus extracts from 20-01-2017 Wikipedia dumps
  
   This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextractor)
 
-[![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[//]: #[![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
