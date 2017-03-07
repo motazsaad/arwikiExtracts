@@ -12,3 +12,8 @@ This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextra
 | documents | words | vocabulary |
 | --- | --- | --- |
 | 459,208 | 83.5M | 4.7M |
+
+Citation information:
+
+Motaz Saad (2017). _WikiDocsAligner: an off-the-shelf Wikipedia Documents Alignment Tool_. in The Second Palestinian International Conference on Information and
+Communication Technology (PICICT 2017). 
