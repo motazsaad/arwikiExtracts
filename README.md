@@ -11,4 +11,4 @@ This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextra
 
 | documents | words | vocabulary |
 | --- | --- | --- |
-|459,208 | 83.5M | 4.7M |
+| 459,208 | 83.5M | 4.7M |
