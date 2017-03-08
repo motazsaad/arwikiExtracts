@@ -1,7 +1,7 @@
 # arwikiExtracts
 Documents extracts from [Arabic Wikipedia](ar.wikipedia.org)
 
-corpus extracts from 20-01-2017 Wikipedia dumps
+corpus extracts from 20-01-2017 [Arabic Wikipedia dumps](https://dumps.wikimedia.org/arwiki/)
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
  
