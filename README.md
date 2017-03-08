@@ -13,7 +13,7 @@ This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextra
 | --- | --- | --- |
 | 459,208 | 83.5M | 4.7M |
 
-To cite this resource:
+## To cite this resource:
 
 Motaz Saad (2017). _WikiDocsAligner: an off-the-shelf Wikipedia Documents Alignment Tool_. in The Second Palestinian International Conference on Information and
 Communication Technology (PICICT 2017). 
