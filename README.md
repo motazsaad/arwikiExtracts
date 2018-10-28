@@ -1,8 +1,8 @@
 # Arabic Wikipedia Extracts
-Documents extracts from [Arabic Wikipedia](ar.wikipedia.org)
-## corpus extracts from 20-10-2018 [Arabic Wikipedia dumps](https://dumps.wikimedia.org/arwiki/)
+Documents extracts from [Arabic Wikipedia](ar.wikipedia.org) downloaded from [Arabic Wikipedia dumps](https://dumps.wikimedia.org/arwiki/)
+## corpus extracts from 20-10-2018 
 
-## corpus extracts from 20-01-2017 [Arabic Wikipedia dumps](https://dumps.wikimedia.org/arwiki/)
+## corpus extracts from 20-01-2017 
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
  
