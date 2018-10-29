@@ -1,5 +1,16 @@
 # Arabic Wikipedia Extracts
 Documents extracts from [Arabic Wikipedia](ar.wikipedia.org) downloaded from [Arabic Wikipedia dumps](https://dumps.wikimedia.org/arwiki/)
+## instructions 
+1. get the corpus dump 
+```
+wget https://dumps.wikimedia.org/arwiki/latest/arwiki-latest-pages-articles.xml.bz2 
+```
+2. extract: 
+```
+python3 arwiki-latest-pages-articles.xml.bz2 -o 20181020 --json 
+```
+
+
 ## corpus extracts from 20-10-2018 
 
 ## corpus extracts from 20-01-2017 
