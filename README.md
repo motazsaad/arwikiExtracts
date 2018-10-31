@@ -5,7 +5,12 @@ Documents extracts from [Arabic Wikipedia](ar.wikipedia.org) downloaded from [Ar
 ```
 wget https://dumps.wikimedia.org/arwiki/latest/arwiki-latest-pages-articles.xml.bz2 
 ```
-2. extract: 
+2. get the tool
+```
+git clone https://github.com/attardi/wikiextractor.git
+```
+
+3. extract: 
 ```
 python3 arwiki-latest-pages-articles.xml.bz2 -o 20181020 --json 
 ```
