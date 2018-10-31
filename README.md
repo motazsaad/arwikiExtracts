@@ -12,7 +12,7 @@ git clone https://github.com/attardi/wikiextractor.git
 
 3. extract: 
 ```
-python3 arwiki-latest-pages-articles.xml.bz2 -o 20181020 --json 
+python3 wikiextractor/WikiExtractor.py arwiki-latest-pages-articles.xml.bz2 -o 20181020 --json 
 ```
 
 ## License
