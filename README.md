@@ -10,16 +10,16 @@ wget https://dumps.wikimedia.org/arwiki/latest/arwiki-latest-pages-articles.xml.
 python3 arwiki-latest-pages-articles.xml.bz2 -o 20181020 --json 
 ```
 
+## License
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+ 
+This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextractor)
 
 ## corpus extracts from 20-10-2018 
 
 ## corpus extracts from 20-01-2017 
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
- 
-This corpus is extracted by [wikiextractor](https://github.com/attardi/wikiextractor)
   
-## Corpus Information
+### Corpus Information
 
 | documents | words | vocabulary |
 | --- | --- | --- |
