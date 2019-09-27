@@ -26,7 +26,7 @@ def load_json_wiki_corpus(corpus_dir):
     return json_corpus
 
 
-def corpus_info(corpus, outfile, topn=30 ):
+def corpus_info(corpus, outfile, topn=100):
 	wiki_writer = open(outfile, encoding='utf-8', mode='w')
 	print('# of documents:', len(corpus))
 	word_freq = {} 
