@@ -6,6 +6,35 @@ from collections import defaultdict
 from tabulate import tabulate
 import operator
 
+import getopt, sys
+ 
+ 
+# Remove 1st argument from the
+# list of command line arguments
+argumentList = sys.argv[1:]
+ 
+# Options
+options = "so:"
+# Long options
+long_options = ["Source=", "Output="]
+try:
+    # Parsing argument
+    arguments, values = getopt.getopt(argumentList, options, long_options)
+     
+    # checking each argument
+    for currentArgument, currentValue in arguments:
+	
+        if currentArgument in ("-s", "--Source"):
+            source = currentValue
+             
+        elif currentArgument in ("-o", "--Output"):
+            output = currentValue
+             
+except getopt.error as err:
+    # output error, and return with an error code
+    print (str(err))
+	
+	
 
 
 def load_json_wiki_corpus(corpus_dir):
@@ -51,7 +80,7 @@ def corpus_info(corpus, outfile, topn=100):
 	
 	
 	
-arwiki_corpus = load_json_wiki_corpus('/home/motaz/gitrepos/arwikiExtracts/20190920/')
-corpus_info(arwiki_corpus, 'arwiki_20190920.txt')
+arwiki_corpus = load_json_wiki_corpus(source)
+corpus_info(arwiki_corpus,  output)
 
 
